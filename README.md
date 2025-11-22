@@ -1,3 +1,8 @@
+
+
+
+<img width="1020" height="582" alt="image" src="https://github.com/user-attachments/assets/0321b7e9-f975-4c95-b957-14665f15a0da" />
+
 # DiskSpaceMonitor PowerShell Script
 
 ## Overview
